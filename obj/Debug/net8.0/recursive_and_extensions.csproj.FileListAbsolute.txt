@@ -1,0 +1,14 @@
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\recursive_and_extensions\bin\Debug\net8.0\recursive_and_extensions.exe
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\recursive_and_extensions\bin\Debug\net8.0\recursive_and_extensions.deps.json
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\recursive_and_extensions\bin\Debug\net8.0\recursive_and_extensions.runtimeconfig.json
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\recursive_and_extensions\bin\Debug\net8.0\recursive_and_extensions.dll
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\recursive_and_extensions\bin\Debug\net8.0\recursive_and_extensions.pdb
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\recursive_and_extensions\obj\Debug\net8.0\recursive_and_extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\recursive_and_extensions\obj\Debug\net8.0\recursive_and_extensions.AssemblyInfoInputs.cache
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\recursive_and_extensions\obj\Debug\net8.0\recursive_and_extensions.AssemblyInfo.cs
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\recursive_and_extensions\obj\Debug\net8.0\recursive_and_extensions.csproj.CoreCompileInputs.cache
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\recursive_and_extensions\obj\Debug\net8.0\recursive_and_extensions.dll
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\recursive_and_extensions\obj\Debug\net8.0\refint\recursive_and_extensions.dll
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\recursive_and_extensions\obj\Debug\net8.0\recursive_and_extensions.pdb
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\recursive_and_extensions\obj\Debug\net8.0\recursive_and_extensions.genruntimeconfig.cache
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\recursive_and_extensions\obj\Debug\net8.0\ref\recursive_and_extensions.dll
